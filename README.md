@@ -1,6 +1,6 @@
-Hey! I’m a  high school student who loves programming and customizing my Linux setup (ricing FTW!). My favorite project so far is chrono zen. I enjoy watching anime, sketching, and spending time in peaceful, calm environments. I’m an introvert at heart and prefer to avoid toxicity. Let's create, learn, and vibe together!
+doin all ts cuz comp is so fun 
 
-## 🚀💻 Technologies & Tools
+## Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
