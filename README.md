@@ -1,4 +1,4 @@
-doin all ts cuz comp is so fun 
+#### doin all ts cuz comp is so fun 
 ---
 - 17 y/0
 - self taught dev
