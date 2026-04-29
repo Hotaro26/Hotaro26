@@ -39,4 +39,4 @@
 
 ---
 ## Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,rust,typescript,go&theme=light)
+kotlin | typescript | go | rust
