@@ -38,5 +38,3 @@
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 ---
-## Learning
-kotlin | typescript | go | rust
