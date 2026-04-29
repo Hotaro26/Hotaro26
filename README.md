@@ -38,3 +38,5 @@
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 ---
+## Learning
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,rust,typescript,go&theme=light)
