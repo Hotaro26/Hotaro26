@@ -1,8 +1,7 @@
 ### doin all ts cuz comp is so fun 
 ---
 - 17 y/0
-- self taught dev
-- oh and arch btw!
+- arch btw!
 ## Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
