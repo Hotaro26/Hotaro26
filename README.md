@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
+  <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
@@ -26,7 +26,6 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
   ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
   ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
-
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
@@ -36,4 +35,3 @@
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
----
