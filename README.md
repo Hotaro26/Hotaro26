@@ -1,7 +1,8 @@
 
+- 17 y/0
+- arch btw!
 
-
-<div align="center">
+<div align="">
 
 <table>
 
@@ -63,4 +64,5 @@
 </table>
 
 </div>
+
 
