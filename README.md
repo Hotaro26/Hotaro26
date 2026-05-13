@@ -1,12 +1,12 @@
-- 17 y/0
-- arch btw!
-  
 
-<div align="">
 
+
+<div align="center">
 
 <table>
+
 <tr>
+
 <td align="center" width="50%" style="border-right: 1px solid #333; border-bottom: 1px solid #333; padding: 20px;">
 
 **Languages**
@@ -17,8 +17,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-
 </td>
+
 <td align="center" width="50%" style="border-bottom: 1px solid #333; padding: 20px;">
 
 **Frontend**
@@ -30,8 +30,11 @@
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td align="center" width="50%" style="border-right: 1px solid #333; padding: 20px;">
 
 **Mobile & Backend**
@@ -42,6 +45,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)
 
 </td>
+
 <td align="center" width="50%" style="padding: 20px;">
 
 **DevTools & Systems**
@@ -53,7 +57,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
+
