@@ -1,5 +1,5 @@
 
-- 17 y/0
+- 17 y/o
 - arch btw!
 
 <div align="">
