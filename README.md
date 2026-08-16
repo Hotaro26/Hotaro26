@@ -2,7 +2,7 @@
 - 17 y/o
 - arch btw!
 
-<div align="">
+<div align="center">
 
 <table>
 
