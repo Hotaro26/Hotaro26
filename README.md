@@ -38,7 +38,7 @@
 
 <td align="center" width="50%" style="border-right: 1px solid #333; padding: 20px;">
 
-**Mobile & Backend**
+**Native App dev & Backend**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
